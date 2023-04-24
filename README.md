@@ -12,4 +12,4 @@ Under `data` folder the three data files containing structural details of molecu
 Due to licensing restrictions of Evolvus data, we have removed smiles notation from the file. However, ErG description can be still used to rerun script and predictions.
 **ErG Script** can be found in original format as MOE SVL script [here](https://svl.chemcomp.com/data/Extended_Reduced_Graph__ErG__fingerprint.svlx) and searching for keyword "Reduced" or as RDkit fingeprint scheme [here](https://www.rdkit.org/docs/GettingStartedInPython.html)
 
-> NOTE: Manuscript submitted. Pre-print to be available soon!
+> NOTE: Manuscript submitted. Pre-print [available](https://chemrxiv.org/engage/chemrxiv/article-details/643d416808c86922ff297ab9)!
